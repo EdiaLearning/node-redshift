@@ -8,13 +8,12 @@
     "commander": "^2.9.0",
     "migrate": "^0.2.2",
     "pg": "^8.5.1",
-    "sql-bricks": "^1.2.3"
+    "sql-bricks": "^3.0.1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/dmanjunath/node-redshift"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
